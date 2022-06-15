@@ -1,0 +1,13 @@
+short_sleeve_top
+long_sleeve_top
+short_sleeved_outwear
+long_sleeved_outwear
+vest
+sling
+shorts
+trousers
+skirt
+short_sleeved_dress
+long_sleeved_dress
+vest_dress
+sling_dress
